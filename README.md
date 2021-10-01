@@ -1,6 +1,16 @@
 # forqan
 
-A new Flutter project.
+A simple Quran app made with flutter without any images or pdf .
+
+# screenshot 
+![Screenshot (52)](https://user-images.githubusercontent.com/54742205/135625245-bdaf6a18-957a-44d6-a810-3f276327e396.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/54742205/135625250-afe2d52f-522b-467c-8fc2-cbda344113d9.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/54742205/135625266-cd939663-99f0-4cb7-be6c-4507acf19bc8.png)
+
+# Support
+If you like what we do, and would want to help us continue doing it 
+
+<a href="https://www.buymeacoffee.com/youcefmo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Getting Started
 
